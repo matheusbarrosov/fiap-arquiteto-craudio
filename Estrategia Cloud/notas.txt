@@ -1,0 +1,44 @@
+- Apresentar conceitos básicos de cloud e benefícios da sua adoção
+    - Foco no negócio
+    - Escalabilidade
+    - Eficiência financeira e operacional
+    - Time to market
+
+- Citação do Nicholas Carr (The big switch - computação como um serviço)
+
+- Abordagem
+    A adoção de cloud não é apenas uma mudança técnica, restrita ao universo da TI. É uma transformação cultural e estratégica, que passa por todas as áreas da organização.
+    O primeiro passo para sair de um ambiente on-premises ou de colocation/housing é preparar as áreas da organização para as reestruturação de seus processos 
+
+    - Muda a forma como tecnologia é obtida, usada e gerenciada
+    - Muda a forma como organizações orçam e pagam por tecnologia
+    - Muda a agilidade na provisão de capacity (escalabilidade instantânea e automatizada para cima e para baixo)
+    - Traz enorme clareza e novos indicadores à eficiência financeira e operacional
+    - Diminui o "time to market"
+
+    - Formato
+        - Consultiva e colaborativa: vamos apresentar um plano inicial a ser aprimorado e refinado junto ao cliente.
+        - Eleição de Business Perspective Owners e Cloud Evangelists dentro da organização
+
+- Mudança de co-location para cloud
+
+- Apresentar modelos de migração (ponto de vista técnico)
+    - Lift & shift
+    - App modernization
+    - Cloud native
+
+- Sugerir modelo de migração para o cenário de cliente
+
+Considerar a adoção como uma jornada evolutiva de transformação
+1. Projeto
+2. Migração
+3. Escalonamento
+4. Cloud-first
+
+- Capacitação do time com as certificações adequadas aos seus papéis
+
+- Premissas
+    - Eles já trabalham com balanceamento de carga e uma estrutura horizontalizada da aplicação pelo parque de 100 servidores que têm em colocation
+    - Estão se aproximando do momento de renovar uma porção significativa do parque de equipamentos e entramos nesse momento para propor a adoção de cloud e redução gradual do colocation
+    - Proposta de um modelo de cloud híbrida, com parte do ambiente em colocation e transfordo para uma estrutura escalável em cloud, controlada poir um balanceador de carga
+    - Criação de novas soluções no modelo Cloud Native (eles estão iniciando o desenvolvimento de uma plataforma de SVAs (Serviços de Valor Agregado), com suporte técnico e instalação, além de um novo programa de pontos)
